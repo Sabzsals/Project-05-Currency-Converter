@@ -1,3 +1,4 @@
+#! usr/bin/evn node
 import inquirer from "inquirer";
 
 //Define the list ofcurrencies and their exchange rate
